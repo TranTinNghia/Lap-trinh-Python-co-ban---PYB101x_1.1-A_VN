@@ -1,0 +1,112 @@
+[
+    {
+        "Mã số": "NV001",
+        "Mã bộ phận": "SALE001",
+        "Chức vụ": "Nhân viên",
+        "Họ và tên": "Nguyễn Hữu Dũng",
+        "Hệ số lương": 300000,
+        "Số ngày làm việc": 28,
+        "Hệ số hiệu quả": 1.2,
+        "Thưởng": 280000,
+        "Số ngày đi muộn": 7
+    },
+    {
+        "Mã số": "QL001",
+        "Mã bộ phận": "SALE001",
+        "Chức vụ": "Quản lý",
+        "Họ và tên": "Trần Minh Khang",
+        "Hệ số lương": 370000,
+        "Số ngày làm việc": 26,
+        "Hệ số hiệu quả": 1.8,
+        "Thưởng": 600000,
+        "Số ngày đi muộn": 5
+    },
+    {
+        "Mã số": "NV003",
+        "Mã bộ phận": "DEV002",
+        "Chức vụ": "Nhân viên",
+        "Họ và tên": "Nguyễn Quang Anh",
+        "Hệ số lương": 300000,
+        "Số ngày làm việc": 26,
+        "Hệ số hiệu quả": 1.2,
+        "Thưởng": 300000,
+        "Số ngày đi muộn": 8
+    },
+    {
+        "Mã số": "QL002",
+        "Mã bộ phận": "DEV001",
+        "Chức vụ": "Quản lý",
+        "Họ và tên": "Trần Tuấn Kiệt",
+        "Hệ số lương": 390000,
+        "Số ngày làm việc": 25,
+        "Hệ số hiệu quả": 1.7,
+        "Thưởng": 700000,
+        "Số ngày đi muộn": 2
+    },
+    {
+        "Mã số": "QL003",
+        "Mã bộ phận": "DEV002",
+        "Chức vụ": "Quản lý",
+        "Họ và tên": "Hồ Quốc Tuấn",
+        "Hệ số lương": 420000,
+        "Số ngày làm việc": 23,
+        "Hệ số hiệu quả": 1.5,
+        "Thưởng": 680000,
+        "Số ngày đi muộn": 2
+    },
+    {
+        "Mã số": "QL004",
+        "Mã bộ phận": "FINANCE001",
+        "Chức vụ": "Quản lý",
+        "Họ và tên": "Trần Ngọc Khánh",
+        "Hệ số lương": 450000,
+        "Số ngày làm việc": 28,
+        "Hệ số hiệu quả": 1.6,
+        "Thưởng": 900000,
+        "Số ngày đi muộn": 5
+    },
+    {
+        "Mã số": "NV004",
+        "Mã bộ phận": "FINANCE001",
+        "Chức vụ": "Nhân viên",
+        "Họ và tên": "Đinh Văn Nam",
+        "Hệ số lương": 270000,
+        "Số ngày làm việc": 28,
+        "Hệ số hiệu quả": 1.3,
+        "Thưởng": 540000,
+        "Số ngày đi muộn": 3
+    },
+    {
+        "Mã số": "QL005",
+        "Mã bộ phận": "DATA001",
+        "Chức vụ": "Quản lý",
+        "Họ và tên": "Phạm Đức Hải",
+        "Hệ số lương": 520000,
+        "Số ngày làm việc": 22,
+        "Hệ số hiệu quả": 1.6,
+        "Thưởng": 450000,
+        "Số ngày đi muộn": 1
+    },
+    {
+        "Mã số": "NV005",
+        "Mã bộ phận": "DATA001",
+        "Chức vụ": "Nhân viên",
+        "Họ và tên": "Lý Trung Thành",
+        "Hệ số lương": 260000,
+        "Số ngày làm việc": 27,
+        "Hệ số hiệu quả": 1.8,
+        "Thưởng": 860000,
+        "Số ngày đi muộn": 3
+    },
+    {
+        "Mã số": "NV002",
+        "Mã bộ phận": "SALE001",
+        "Chức vụ": "Nhân viên",
+        "Họ và tên": "Trần Tín Nghĩa",
+        "Hệ số lương": 300000,
+        "Số ngày làm việc": 28,
+        "Hệ số hiệu quả": 1.3,
+        "Thưởng": 200000,
+        "Số ngày đi muộn": 2
+    }
+]
