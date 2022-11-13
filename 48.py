@@ -1,0 +1,6 @@
+string_input = input("Nhập string: ")
+a = len([i for i in string_input if i.isupper()])
+b = len([j for j in string_input if j.islower()])
+print("Given string: {0}".format(string_input))
+print("Number of uppercase letters: {0}".format(a))
+print("Number of lowercase letters: {0}".format(b))
